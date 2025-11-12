@@ -1,17 +1,17 @@
 {
-  "version": "v0.1.20251112.3",
-  "n": 3,
-  "buildTime": "2025-11-12T13:27:14.110Z",
+  "version": "v0.1.20251030.1",
+  "n": 1,
+  "buildTime": "2025-10-30T06:56:16.627Z",
   "mode": "production",
   "isDev": false,
   "vars": {
     "major": 0,
     "minor": 1,
-    "patch": 3,
-    "date": "20251112",
-    "time": "132714",
-    "build": 3,
-    "timestamp": 1762954034110,
-    "datetime": "20251112132714"
+    "patch": 1,
+    "date": "20251030",
+    "time": "065616",
+    "build": 1,
+    "timestamp": 1761807376627,
+    "datetime": "20251030065616"
   }
 }
